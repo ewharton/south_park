@@ -1,5 +1,5 @@
 # South Park
-An exploration of the TV show, South Park. This is a fun exploration of South Park. All of the analysis is in the IPython Notebook. T
+An exploration of the TV show, South Park. This is a fun exploration of South Park. All of the analysis is in the IPython Notebook.
 
 I made this into a [blog post](https://eddiewharton.com/2016/05/27/south-park "Post") that gets into more details. 
 
